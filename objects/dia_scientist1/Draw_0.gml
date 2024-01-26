@@ -48,8 +48,8 @@ if(dia_count == 0)
 	/// @DnDParent : 4811E2EA
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "caption" ""Help me!""
-	draw_text(x + 0, y + 0, string("Help me!") + "");
+	/// @DnDArgument : "caption" ""hey boy are you interested in \n opening that door""
+	draw_text(x + 0, y + 0, string("hey boy are you interested in \n opening that door") + "");
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -65,8 +65,8 @@ if(dia_count == 1)
 	/// @DnDParent : 42D08C7C
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "caption" ""I am ill.\nI need to make tulsi tea""
-	draw_text(x + 0, y + 0, string("I am ill.\nI need to make tulsi tea") + "");
+	/// @DnDArgument : "caption" ""That door is made up of \nbamboo and rope""
+	draw_text(x + 0, y + 0, string("That door is made up of \nbamboo and rope") + "");
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -82,8 +82,8 @@ if(dia_count == 2)
 	/// @DnDParent : 458D3A23
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "caption" ""Bring the tulsi leaves\n form forest""
-	draw_text(x + 0, y + 0, string("Bring the tulsi leaves\n form forest") + "");
+	/// @DnDArgument : "caption" ""if you bring me sea water and battery""
+	draw_text(x + 0, y + 0, string("if you bring me sea water and battery") + "");
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -99,8 +99,8 @@ if(dia_count == 3)
 	/// @DnDParent : 6B89580F
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "caption" ""Be careful Half land is\nowned by a buisnessman""
-	draw_text(x + 0, y + 0, string("Be careful Half land is\nowned by a buisnessman") + "");
+	/// @DnDArgument : "caption" ""I will open that door for you""
+	draw_text(x + 0, y + 0, string("I will open that door for you") + "");
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable

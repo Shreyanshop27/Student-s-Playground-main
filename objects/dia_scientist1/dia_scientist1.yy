@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "scientist",
-    "path": "folders/Objects/dialogue/dialogue/scientist.yy",
+    "path": "folders/Objects/dialogue/scientist.yy",
   },
   "parentObjectId": null,
   "persistent": false,

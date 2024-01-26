@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "court",
-    "path": "folders/Objects/dialogue/dialogue/court.yy",
+    "path": "folders/Objects/dialogue/court.yy",
   },
   "parentObjectId": null,
   "persistent": false,
